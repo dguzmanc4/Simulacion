@@ -1,5 +1,5 @@
 # Simulacion
-<h1>Tareas: </h1>
+<h1>Tareas</h1>
 <ul>
    <li>
     <a href="https://github.com/dguzmanc4/Simulacion/blob/main/Tareas/Introducci%C3%B3n/Dados.ipynb"> Tarea 1: </a> <span style='font-size:100px;'> Dados</span>
