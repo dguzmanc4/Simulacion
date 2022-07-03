@@ -1,5 +1,6 @@
 # Simulación
-<h1>Tareas</h1>
+<h2>Primer Interciclo</h2>
+<h3>Tareas</h3>
 <ul>
    <li>
     <a href="https://github.com/dguzmanc4/Simulacion/blob/main/Tareas/Introducci%C3%B3n/Dados.ipynb"> Tarea 1: </a> <span style='font-size:100px;'> Dados</span>
@@ -33,10 +34,34 @@
   </li>
 
 </ul>
-<h1>Pruebas</h1>
+<h3>Pruebas</h3>
 <ul>
    <li>
     <a href="https://github.com/dguzmanc4/Simulacion/blob/main/Prueba_1/Prueba_1.ipynb"> Prueba 1: </a> <span style='font-size:100px;'> Generación de gráficos utilizando Matplotlib</span>
   </li>
 
 </ul>
+
+<h2>Primer Interciclo</h2>
+<h3>Tareas</h3>
+<ul>
+  <li>
+    <a href="https://github.com/dguzmanc4/Simulacion/blob/main/Tareas/Cap%C3%ADtulo_3/AulaInvertida_1.ipynb"> Aula Invertida 1: </a> <span style='font-size:100px;'> </span>
+  </li> 
+
+  <li>
+    <a href="https://github.com/dguzmanc4/Simulacion/blob/main/Tareas/Cap%C3%ADtulo_3/AulaInvertida_2.ipynb"> Aula Invertida 2: </a> <span style='font-size:100px;'> Distribuciones de probabilidad</span>
+  </li>
+
+  <li>
+    <a href="https://github.com/dguzmanc4/Simulacion/blob/main/Tareas/Cap%C3%ADtulo_3/AulaInvertida_3.ipynb"> Aula Invertida 3: </a> <span style='font-size:100px;'> Distribuciones continuas
+</span>
+  </li>
+
+</ul>
+
+<h3>Pruebas</h3>
+<ul>
+   <li>
+    <a href="https://github.com/dguzmanc4/Simulacion/blob/main/Pruebas%20y%20examenes/Prueba_3/Prueba_3.ipynb"> Prueba 3: </a> <span style='font-size:100px;'> Método de la transformada Inversa (Función Exponencial).</span>
+  </li>
