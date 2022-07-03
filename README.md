@@ -1,4 +1,4 @@
-# Simulación
+<h1 style="text-align:center"> Simulación </h1>
 <h2>Primer Interciclo</h2>
 <h3>Tareas</h3>
 <ul>
