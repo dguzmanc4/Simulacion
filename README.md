@@ -42,7 +42,7 @@
 
 </ul>
 
-<h2>Primer Interciclo</h2>
+<h2>Segundo Interciclo</h2>
 <h3>Tareas</h3>
 <ul>
   <li>
