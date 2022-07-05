@@ -54,8 +54,13 @@
   </li>
 
   <li>
-    <a href="https://github.com/dguzmanc4/Simulacion/blob/main/Tareas/Cap%C3%ADtulo_3/AulaInvertida_3.ipynb"> Aula Invertida 3: </a> <span style='font-size:100px;'> Distribuciones continuas
-</span>
+    <a href="https://github.com/dguzmanc4/Simulacion/blob/main/Tareas/Cap%C3%ADtulo_3/AulaInvertida_3.ipynb"> Aula Invertida 3: </a> <span style='font-size:100px;'> Distribuciones continuas </span>
+
+  </li>
+
+  <li>
+    <a href="https://github.com/dguzmanc4/Simulacion/blob/main/Tareas/Cap%C3%ADtulo_3/SimPy_sed.ipynb"> Simpy: </a> <span style='font-size:100px;'> Simulación de un autolavado </span>
+
   </li>
 
 </ul>
