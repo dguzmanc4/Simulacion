@@ -46,7 +46,7 @@
 <h3>Tareas</h3>
 <ul>
   <li>
-    <a href="https://github.com/dguzmanc4/Simulacion/blob/main/Tareas/Cap%C3%ADtulo_3/AulaInvertida_1.ipynb"> Aula Invertida 1: Estadística Descriptiva</a> <span style='font-size:100px;'> </span>
+    <a href="https://github.com/dguzmanc4/Simulacion/blob/main/Tareas/Cap%C3%ADtulo_3/AulaInvertida_1.ipynb"> Aula Invertida 1: </a> <span style='font-size:100px;'> Estadística Descriptiva </span>
   </li> 
 
   <li>
