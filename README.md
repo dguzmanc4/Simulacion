@@ -59,7 +59,7 @@
   </li>
 
   <li>
-    <a href="https://github.com/dguzmanc4/Simulacion/blob/main/Tareas/Cap%C3%ADtulo_3/SimPy_sed.ipynb"> Simpy: </a> <span style='font-size:100px;'> Simulación de un autolavado </span>
+    <a href="https://github.com/dguzmanc4/Simulacion/blob/main/Tareas/Cap%C3%ADtulo_3/SimPy_sed.ipynb"> SimPy: </a> <span style='font-size:100px;'> Simulación de un autolavado </span>
 
   </li>
 
