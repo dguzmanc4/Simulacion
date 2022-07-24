@@ -63,6 +63,17 @@
 
   </li>
 
+  <li>
+    <a href="https://github.com/dguzmanc4/Simulacion/blob/main/Tareas/Cap%C3%ADtulo_3/SimPy_COVID19.ipynb"> SimPy: </a> <span style='font-size:100px;'> Simulación COVID-19 </span>
+  </li>
+
+  <li>
+    <a href="https://github.com/dguzmanc4/Simulacion/blob/main/Tareas/Cap%C3%ADtulo_3/Simpy_simulaci%C3%B3n_gr%C3%A1fica.ipynb"> SimPy: </a> <span style='font-size:100px;'> Simulación Gráfica - Venta de boletos </span>
+  </li> 
+  <li>
+    <a href="https://github.com/dguzmanc4/Simulacion/blob/main/Tareas/Cap%C3%ADtulo_3/ReporteSimulaci%C3%B3n.pdf"> Reporte: </a> <span style='font-size:100px;'> Simulación Gráfica - Venta de boletos </span>
+  </li> 
+
 </ul>
 
 <h3>Pruebas</h3>
